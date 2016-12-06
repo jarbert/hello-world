@@ -1,4 +1,4 @@
 # hello-world
 just a test
 
-sometime we have to laern something new.
+sometimes we have to learn something new.
